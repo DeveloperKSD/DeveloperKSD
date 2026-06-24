@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= HEADER BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,35:302B63,70:24243E,100:6C5CE7&height=250&section=header&text=Kshitij%20Deshpande&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20SRE&descAlignY=58&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,35:302B63,70:24243E,100:6C5CE7&height=220&text=Kshitij%20Deshpande&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=DevOps%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20SRE&descAlignY=66&descSize=19&descColor=D8D2FF" />
 
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@
 <table align="center">
 <tr><td>
 
-```text
+```js
 const kshitij = {
   role: "DevOps / Cloud / SRE",
   education: "B.Tech Integrated CS, NMIMS MPSTME — 3rd Year",
@@ -180,6 +180,6 @@ From Mon - Sun  19 Jul 2026 - 25 Jul 2026
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,35:302B63,70:24243E,100:0F0C29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,35:302B63,70:24243E,100:0F0C29&height=100" />
 
 </div>
