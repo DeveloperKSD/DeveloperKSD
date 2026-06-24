@@ -19,12 +19,11 @@
 </div>
 
 <br/>
-## ABOUT
+<h3 align="center">About Me</h3>
 
-![Status](https://img.shields.io/badge/status-interning%20%40%20Shivaami-blue)
-![Focus](https://img.shields.io/badge/focus-DevOps%20%7C%20Cloud%20%7C%20SRE-orange)
-
-3rd-year B.Tech (Integrated CS) student at **NMIMS MPSTME**, currently interning at **Shivaami** on GCP infrastructure. I work across DevOps, cloud engineering, and SRE — provisioning systems with Terraform, monitoring them with Prometheus & Grafana, and figuring out what breaks before it actually does. Outside of that, I'm into hackathons and currently co-authoring an AI/ML research paper.
+<p align="center">
+3rd-year B.Tech (Integrated CS) student at NMIMS MPSTME. Interested in DevOps, cloud engineering, and SRE.
+</p>
 <!-- ================= WHAT I DO ================= -->
 <h2 align="center">⚡ What I Do</h2>
 
