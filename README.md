@@ -89,29 +89,23 @@
 </div>
 
 <br/>
-
 <!-- ================= PINNED / TOP REPOS ================= -->
 <h2 align="center">📌 Top Repos</h2>
 
 <div align="center">
 
-<a href="https://github.com/DeveloperKSD/terraform-GCP-loadbalancer-autoscaling.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-<a href="https://github.com/DeveloperKSD/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/terraform-GCP-loadbalancer-autoscaling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=terraform-GCP-loadbalancer-autoscaling&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/CloudInfra-monitoring-with-Prometheus-Grafana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=CloudInfra-monitoring-with-Prometheus-Grafana&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
-<a href="[https://github.com/DeveloperKSD/REPO-3](https://github.com/DeveloperKSD/terraform-GCP-loadbalancer-autoscaling.git)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-<a href="https://github.com/DeveloperKSD/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-4&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/Windows-local-Monitoring-with-grafana-prometheus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=Windows-local-Monitoring-with-grafana-prometheus&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/check-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=check-model&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
-<a href="https://github.com/DeveloperKSD/REPO-5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-5&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-<a href="https://github.com/DeveloperKSD/REPO-6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-6&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/SplitEase-java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=SplitEase-java&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/misal-pav"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=misal-pav&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
-<a href="https://github.com/DeveloperKSD/REPO-7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-7&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-<a href="https://github.com/DeveloperKSD/REPO-8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-8&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="https://github.com/DeveloperKSD/Monkey-Biznes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=Monkey-Biznes&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
 </div>
-
-<p align="center"><sub>↑ Replace <code>REPO-1</code> through <code>REPO-8</code> with your actual repo names (e.g. <code>REPO-1</code> → <code>gcp-autoscaling-terraform</code>)</sub></p>
-
-<br/>
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
