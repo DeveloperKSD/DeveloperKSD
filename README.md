@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= HEADER BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,35:1C2541,70:3A506B,100:5BC0BE&height=270&section=header&text=Kshitij%20Dhalwani&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Captain%20of%20a%20Fleet%20Sailing%20the%20Storm-Cloud%20Seas&descAlignY=58&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,35:1C2541,70:3A506B,100:5BC0BE&height=270&section=header&text=Kshitij%20deshpande&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Captain%20of%20a%20Fleet%20Sailing%20the%20Storm-Cloud%20Seas&descAlignY=58&descSize=19" />
 
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 ```bash
 📜 SHIP'S LOG — Captain's Personal Entry
 
-Vessel        : Kshitij Dhalwani
+Vessel        : Kshitij deshpande
 Rank          : 3rd Year B.Tech (Integrated CS), NMIMS MPSTME
 Current Port  : Docked at Shivaami — provisioning GCP infrastructure
 Heading       : DevOps · Cloud Engineering · SRE
