@@ -98,7 +98,7 @@
 <a href="https://github.com/DeveloperKSD/terraform-GCP-loadbalancer-autoscaling.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 <a href="https://github.com/DeveloperKSD/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
-<a href="https://github.com/DeveloperKSD/REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
+<a href="[https://github.com/DeveloperKSD/REPO-3](https://github.com/DeveloperKSD/terraform-GCP-loadbalancer-autoscaling.git)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-3&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 <a href="https://github.com/DeveloperKSD/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-4&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
 <a href="https://github.com/DeveloperKSD/REPO-5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=REPO-5&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
