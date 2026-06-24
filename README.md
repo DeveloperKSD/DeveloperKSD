@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= HEADER BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=260&section=header&text=Kshitij%20Dhalwani&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Infrastructure%20Behind%20the%20Magic&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=260&section=header&text=Kshitij%20Deshpande&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Infrastructure%20Behind%20the%20Magic&descAlignY=58&descSize=20" />
 
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://git.io/typing-svg">
