@@ -22,19 +22,13 @@
 
 <!-- ================= ABOUT ================= -->
 <table align="center">
-<tr><td>
+<tr><td width="700">
 
-```js
-const kshitij = {
-  role: "DevOps / Cloud / SRE",
-  education: "B.Tech Integrated CS, NMIMS MPSTME — 3rd Year",
-  internship: "Shivaami — GCP Infrastructure",
-  currentlyBuilding: "Unified project: Terraform + Monitoring + Blue-Green Deploy",
-  learning: ["GitHub Actions", "Redis", "Kubernetes"],
-  alsoDoing: ["Hackathons", "Co-authoring an AI/ML research paper"],
-  philosophy: "If it can autoscale or self-heal, I've probably already built a dashboard for it."
-};
-```
+<h3 align="center">"If it can autoscale or self-heal, I've probably already built a dashboard for it."</h3>
+
+<p align="center">
+3rd-year B.Tech (Integrated CS) student at NMIMS MPSTME, currently interning at <b>Shivaami</b> on GCP infrastructure. I work across DevOps, cloud engineering, and SRE — provisioning systems with Terraform, monitoring them with Prometheus and Grafana, and figuring out what breaks before it actually does. Right now I'm stitching those pieces into one unified project (Terraform + monitoring + blue-green deploy), picking up GitHub Actions, Redis, and Kubernetes along the way, and splitting spare time between hackathons and co-authoring an AI/ML research paper.
+</p>
 
 </td></tr>
 </table>
