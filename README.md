@@ -27,12 +27,11 @@
 ```bash
 kshitij@devops-lab:~$ whoami --verbose
 
-> Name        : Kshitij Dhalwani
+> Name        : Kshitij Deshpande
 > Role        : 3rd Year B.Tech (Integrated CS), NMIMS MPSTME
 > Currently   : Interning @ Shivaami — building GCP infrastructure
 > Focus       : DevOps · Cloud · SRE
 > Status      : [ONLINE] shipping infra at unreasonable hours
-> Side Quests : Hackathons | AI/ML research paper | Building "Valoria" (C++ RPG)
 
 kshitij@devops-lab:~$ cat mission_statement.txt
 
