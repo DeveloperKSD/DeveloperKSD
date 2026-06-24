@@ -19,20 +19,16 @@
 </div>
 
 <br/>
+## ABOUT
 
-<!-- ================= ABOUT ================= -->
-<table align="center">
-<tr><td width="700">
+🎓 3rd-year B.Tech (Integrated CS) @ NMIMS MPSTME
+💼 Interning at **Shivaami** — GCP Infrastructure
 
-<h3 align="center">"If it can autoscale or self-heal, I've probably already built a dashboard for it."</h3>
+I work across DevOps, cloud engineering, and SRE — provisioning with **Terraform**, monitoring with **Prometheus** + **Grafana**, and catching failures before they happen.
 
-<p align="center">
-3rd-year B.Tech (Integrated CS) student at NMIMS MPSTME, currently interning at <b>Shivaami</b> on GCP infrastructure. I work across DevOps, cloud engineering, and SRE — provisioning systems with Terraform, monitoring them with Prometheus and Grafana, and figuring out what breaks before it actually does. Right now I'm stitching those pieces into one unified project (Terraform + monitoring + blue-green deploy), picking up GitHub Actions, Redis, and Kubernetes along the way, and splitting spare time between hackathons and co-authoring an AI/ML research paper.
-</p>
-
-</td></tr>
-</table>
-
+| 🔨 Building | 📖 Learning | ⚡ Side Quests |
+|---|---|---|
+| Unified project: Terraform + monitoring + blue-green deploy | GitHub Actions, Redis, Kubernetes | Hackathons + AI/ML research paper (co-author) |
 <br/>
 
 <!-- ================= WHAT I DO ================= -->
