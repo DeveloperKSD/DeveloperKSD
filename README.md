@@ -139,16 +139,6 @@ From Mon - Sun  19 Jul 2026 - 25 Jul 2026
 </div>
 
 <br/>
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<h2 align="center">🟣 Contribution Graph</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DeveloperKSD/DeveloperKSD/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-  <p><sub>(renders once the Action runs for the first time — see setup section)</sub></p>
-</div>
-
-<br/>
-
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
