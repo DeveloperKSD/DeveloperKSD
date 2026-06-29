@@ -114,38 +114,3 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeveloperKSD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperKSD&theme=tokyonight&hide_border=true&background=0F0C29&ring=A29BFE&fire=A29BFE&currStreakLabel=A29BFE" />
 </div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperKSD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperKSD&theme=tokyo-night&hide_border=true&bg_color=0F0C29&color=A29BFE&line=A29BFE&point=ffffff" />
-</div>
-
-<!-- ================= WAKATIME ================= -->
-<h3 align="center">⏱️ Weekly Coding Activity (WakaTime)</h3>
-<p align="center"><sub>Activates once your WakaTime account is connected — see setup note below</sub></p>
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-From Mon - Sun  19 Jul 2026 - 25 Jul 2026
-
-🚧 No WakaTime data yet — connect your account to populate this.
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<br/>
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DeveloperKSD&style=for-the-badge&color=A29BFE" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,35:302B63,70:24243E,100:0F0C29&height=100" />
-
-</div>
