@@ -22,27 +22,28 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-3rd-year B.Tech (Integrated CS) student at NMIMS MPSTME. Interested in DevOps, cloud engineering, and SRE.
+3rd-year B.Tech (Integrated CS) student at NMIMS MPSTME. Passionate about DevOps, cloud engineering, and building resilient infrastructure.
 </p>
+
 <!-- ================= WHAT I DO ================= -->
-<h2 align="center">⚡ What I Do</h2>
+<h2 align="center">⚡ Core Focus</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### ☁️ Infrastructure & Cloud
-- Designed a **Terraform-based autoscaling architecture** on GCP — Managed Instance Group + Global HTTP Load Balancer + custom autoscaler
-- Built a **Flask dashboard** to monitor the stack live
-- Deployed a **Prometheus + Grafana** observability pipeline across multiple GCP VMs
+#### ☁️ Infrastructure & Cloud Engineering
+- Designed a **Terraform-based autoscaling architecture** on GCP using Managed Instance Groups and a Global HTTP Load Balancer.
+- Developed a live tracking **Flask dashboard** to monitor autoscaling telemetry.
+- Built and deployed robust **Prometheus + Grafana** observability pipelines across multi-VM environments.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛠️ Building & Shipping
-- Regular **hackathon competitor** — several completed, more lined up
-- Co-authoring an **AI/ML research paper** with a faculty member
-- Built an **LLM-powered ATS resume scanner** with dual recruiter/applicant modes
+#### 🛠️ Projects & Research
+- Active **hackathon competitor** focused on building production-ready MVPs.
+- Co-authoring a research paper on **AI/ML optimization strategies** with university faculty.
+- Engineered an **LLM-powered ATS resume parser** featuring targeted interfaces for recruiters and applicants.
 
 </td>
 </tr>
@@ -51,11 +52,11 @@
 <br/>
 
 <!-- ================= TECH STACK ================= -->
-<h2 align="center">🧩 Tech Stack</h2>
+<h2 align="center">🧩 Technical Stack</h2>
 
 <div align="center">
 
-<sub><b>Cloud & Infrastructure</b></sub>
+<sub><b>Cloud, DevOps & Observability</b></sub>
 <br/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
@@ -78,7 +79,7 @@
 
 <br/><br/>
 
-<sub><b>Data & Tools</b></sub>
+<sub><b>Databases & Tools</b></sub>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -90,7 +91,7 @@
 
 <br/>
 <!-- ================= PINNED / TOP REPOS ================= -->
-<h2 align="center">📌 Top Repos</h2>
+<h2 align="center">📌 Highlighted Repositories</h2>
 
 <div align="center">
 
@@ -100,17 +101,33 @@
 <a href="https://github.com/DeveloperKSD/Windows-local-Monitoring-with-grafana-prometheus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=Windows-local-Monitoring-with-grafana-prometheus&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 <a href="https://github.com/DeveloperKSD/check-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=check-model&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
 
-<a href="https://github.com/DeveloperKSD/SplitEase-java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=SplitEase-java&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-<a href="https://github.com/DeveloperKSD/misal-pav"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=misal-pav&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-
-<a href="https://github.com/DeveloperKSD/Monkey-Biznes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperKSD&repo=Monkey-Biznes&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" /></a>
-
 </div>
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Activity Metrics</h2>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeveloperKSD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&icon_color=A29BFE&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperKSD&theme=tokyonight&hide_border=true&background=0F0C29&ring=A29BFE&fire=A29BFE&currStreakLabel=A29BFE" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperKSD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A29BFE&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperKSD&theme=tokyo-night&hide_border=true&bg_color=0F0C29&color=A29BFE&line=A29BFE&point=ffffff" />
+</div>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DeveloperKSD&style=for-the-badge&color=A29BFE" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,35:302B63,70:24243E,100:0F0C29&height=100" />
+
 </div>
