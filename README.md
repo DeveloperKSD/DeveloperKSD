@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Provisioning+cloud+infrastructure+with+Terraform;Building+observability+stacks+that+actually+alert+you;Shipping+CI%2FCD+pipelines%2C+not+just+talking+about+them;3rd+Year+CS+Student+%40+NMIMS+%C2%B7+Interning+%40+Shivaami;Hackathons+%C2%B7+Research+%C2%B7+Always+building+something&font=Fira+Code&center=true&width=920&height=50&color=A29BFE&vCenter=true&size=22&pause=1300" />
 </a>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DeveloperKSD&style=for-the-badge&color=A29BFE" />
+
+<br/>
+
+</div>
 <br/>
 
 <!-- ================= SOCIAL BADGES ================= -->
@@ -119,15 +126,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperKSD&theme=tokyo-night&hide_border=true&bg_color=0F0C29&color=A29BFE&line=A29BFE&point=ffffff" />
 </div>
 
-<br/>
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DeveloperKSD&style=for-the-badge&color=A29BFE" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,35:302B63,70:24243E,100:0F0C29&height=100" />
-
-</div>
