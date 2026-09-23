@@ -2,7 +2,6 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,35:302B63,70:24243E,100:6C5CE7&height=220&text=Kshitij%20Deshpande&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=DevOps%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20ML&descAlignY=66&descSize=19&descColor=D8D2FF" />
-
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Provisioning+cloud+infrastructure+with+Terraform;Building+observability+stacks+that+actually+alert+you;Shipping+CI%2FCD+pipelines%2C+not+just+talking+about+them;3rd+Year+CS+Student+%40+NMIMS+%C2%B7+Interning+%40+Shivaami;Hackathons+%C2%B7+Research+%C2%B7+Always+building+something&font=Fira+Code&center=true&width=920&height=50&color=A29BFE&vCenter=true&size=22&pause=1300" />
